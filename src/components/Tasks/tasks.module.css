@@ -1,7 +1,13 @@
 .tasks {
   /* sample */
+  /* list-style: none; */
+  /* display: flex; */
 }
 
 .empty {
   /* sample */
+}
+.flex-div{
+  display: flex;
+
 }
